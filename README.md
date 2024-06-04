@@ -35,7 +35,7 @@ Welcome to the Backend and Database Project! This project showcases the implemen
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Sameer16536/Pinterest
-   cd backend-database-project
+   cd Pinterest
    ```
 
 2. **Install dependencies:**
